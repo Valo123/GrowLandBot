@@ -13,13 +13,13 @@ const tambahan = require("./lib/tambahan.js")
 const donasi = require("./lib/donasi.js");
 const info = require("./lib/info.js");
 /////////////////
-const BotName = 'REUZ BOT☄'; 
-const instagram = 'https://instagram.com/reuz.id'; 
-const telegram = 'https://t.me/reuzzz'; 
+const BotName = '𝙂𝙧𝙤𝙬𝙇𝙖𝙣𝙙𝘽𝙤𝙩'; 
+const instagram = 'https://instagram.com/growland_gtps'; 
+const telegram = 'belum ada '; 
 const kapanbotaktif = 'KETIKA HANYA DIAKTIFKAN'; 
-const youtube = 'https://www.youtube.com/c/reuz_id';
-//const grupch1 = 'belum ada grup'; 
-//const grupch2 = 'belum ada grup' ; 
+const youtube = 'https://www.youtube.com/channel/UC5AfwvSxWrhMlEnuiM52hag';
+//const grupch1 = 'https://chat.whatsapp.com/IMis5AWJ6v44rKlNAyFXIk'; 
+//const grupch2 = 'https://chat.whatsapp.com/IMis5AWJ6v44rKlNAyFXIk' ; 
 const
 {
    WAConnection,
